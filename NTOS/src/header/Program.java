@@ -10,7 +10,6 @@ public class Program {
 		
 		//This is an update at 12:23 4/10/13
 		//changed name to benedettp 1:05 4/10/13
-		//Do you see this?
 	}
 
 }
