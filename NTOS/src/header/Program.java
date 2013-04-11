@@ -22,14 +22,14 @@ public class Program {
 	
 	public static void menu()
 	{
-		System.out.print("1. New\n");
-		System.out.print("2. Add\n");
-		System.out.print("3. Queue\n");
-		System.out.print("4. Priority\n");
-		System.out.print("5. Remove\n");
-		System.out.print("6. Concatinate\n");
-		System.out.print("7. Run\n");
-		System.out.print("8. Logout\n");
+		System.out.println("1. New");
+		System.out.println("2. Add");
+		System.out.println("3. Queue");
+		System.out.println("4. Priority");
+		System.out.println("5. Remove");
+		System.out.println("6. Concatinate");
+		System.out.println("7. Run");
+		System.out.println("8. Logout");
 		
 	}
 	
@@ -38,33 +38,31 @@ public class Program {
 		switch (sel)
 		{
 		case 1: 
-			System.out.println("You have selected Option 1");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 2: 
-			System.out.println("you have selected Option 2");
+			System.out.println("you have selected Option " + sel);
 			break;
 		case 3: 
-			System.out.println("You have selected Option 3");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 4:
-			System.out.println("You have selected Option 4");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 5:
-			System.out.println("You have selected Option 5");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 6:
-			System.out.println("You have selected Option 6");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 7:
-			System.out.println("You have selected Option 7");
+			System.out.println("You have selected Option " + sel);
 			break;
 		case 8:
-			System.out.println("You have selected Option 8");
+			System.out.println("You have selected Option " + sel);
 			break;
 		
 		}
-		
-		
 		return sel;
 	}
 
