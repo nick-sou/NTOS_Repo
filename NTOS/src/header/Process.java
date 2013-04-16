@@ -2,7 +2,7 @@ package header;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-
+// Make it better
 //Class to represent a process.
 class Process
 { 
