@@ -16,7 +16,7 @@ public class Program {
 				selection = 0;
 				System.out.print("Invalid entry, Enter an integer between 1-8\n");
 			}else
-				selection(selection);
+				action(selection);
 		}
 	}
 	
@@ -33,7 +33,7 @@ public class Program {
 		
 	}
 	
-	public static int selection(int sel)
+	public static int action(int sel)
 	{
 		switch (sel)
 		{
