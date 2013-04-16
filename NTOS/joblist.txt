@@ -1,9 +1,0 @@
-1. There is no fight club
-2. There is no fight club
-2.5 Figure out git!
-
-3. Partition work in following lines:
-
-4. fill in simple methods
-5. make menu 'gui' in Program.java
-
